@@ -1,0 +1,43 @@
+[
+
+  {
+
+    "quote": "Help me, Obi-Wan Kenobi. You’re my only hope.",
+
+    "author": "Leia Organa",
+
+    "slideTransitionDelay": 3000
+
+  },
+
+  {
+
+    "quote": "The Force will be with you. Always.",
+
+    "author": "Obi-Wan Kenobi",
+
+    "slideTransitionDelay": 2000
+
+  },
+
+  {
+
+    "quote": "It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man.",
+
+    "author": "Han Solo",
+
+    "slideTransitionDelay": 6000
+
+  },
+
+  {
+
+    "quote": "Do. Or do not. There is no try.",
+
+    "author": "Yoda",
+
+    "slideTransitionDelay": 2000
+
+  }
+
+]
